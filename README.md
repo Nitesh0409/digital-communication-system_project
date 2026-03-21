@@ -7,7 +7,7 @@ This project focuses on designing and implementing an end-to-end digital communi
 
 ### Completed
 - Multimedia input processing (image and audio)
-- Binary conversion (8-bit image, 16-bit PCM audio)
+- Binary conversion
 - Framing with synchronization, metadata, sequencing, and CRC
 - BPSK modulation with upsampling and pulse shaping
 - Transmitter-side signal generation and verification
@@ -30,4 +30,5 @@ This project focuses on designing and implementing an end-to-end digital communi
 ## Tech Stack
 - MATLAB (signal processing and modulation)
 
-## Repository Structure
+## Note
+This repository currently contains the transmitter-side implementation as part of the mid-project evaluation.
